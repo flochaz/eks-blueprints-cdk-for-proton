@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "de9309a8-2819-4e59-8cd9-e1cc4e3a73bc",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:245222655929:environment/chazalfEnv",
+    "templateArn" : "arn:aws:proton:us-west-2:245222655929:environment-template/eks-mng-karpenter-with-new-vpc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
